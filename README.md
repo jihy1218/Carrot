@@ -50,7 +50,7 @@
 |2021.12.31|프로젝트발표|
 
 #### 컨트롤러 구조도 
-![image](https://user-images.githubusercontent.com/91596526/145777219-3022d0aa-7f87-493f-a9fe-5ffde01d0a47.png)
+![image](https://user-images.githubusercontent.com/91596526/149474264-1aa0c1a4-9a20-46fe-941e-d99e224828d2.png)
 
 #### DB 구조도
-![image](https://user-images.githubusercontent.com/91596526/145779999-38c0a3cd-74a5-4a0b-9709-2f8781834182.png)
+![image](https://user-images.githubusercontent.com/91596526/149474280-a9d459c5-efc9-422a-b641-6dfcd8c945d1.png)
