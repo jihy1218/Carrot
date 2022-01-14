@@ -24,15 +24,12 @@
 
 
 #### 폰트 및 메인컬러
-> 폰트 : 롯데마트드림체 ![image](https://user-images.githubusercontent.com/91596526/147302227-b08b646e-ace8-470a-a546-5b6c8a1e6425.png)<br>
-> 카페24 동동  ![image](https://user-images.githubusercontent.com/91596526/145939938-f0ddec36-0da4-45a9-ae70-f6fe6bac173d.png)
+> 폰트 : GoogleXAdobe 노토 산스 ![image](https://user-images.githubusercontent.com/91596526/149474127-57f10055-0479-41cb-97ce-350e22e83261.png)<br>
 
 >> 컬러 : #ff7915 ![image](https://user-images.githubusercontent.com/91596526/145911414-b210ee1b-a58c-4613-8b97-b6aa476c2497.png)<br>
     #3f7d1b ![image](https://user-images.githubusercontent.com/91596526/145911372-251b22ec-bfa5-458d-84f8-ea30806d2876.png)<br>
     #ffaa21 ![image](https://user-images.githubusercontent.com/91596526/145911314-7485d8b8-f435-4690-97a7-9d75e4d8f784.png)<br>
     #e3ad06 ![image](https://user-images.githubusercontent.com/91596526/145911223-8a0cf0d9-d2af-4f09-9412-db09286fbbdc.png)
-
-
 
 #### 개발일정
 > [12/10~12/31 약22일(3주)]
@@ -51,18 +48,6 @@
 |2021.12.28~2021.12.29|프로젝트 병합 및 디버깅|
 |2021.12.30|프로젝트 테스트|
 |2021.12.31|프로젝트발표|
-
-#### 역할 분담
-> 프론트 구현
->> 오동진 : 친구관련 JSP 프론트 구현 게시판 검색 페이징처리, 정렬 JSP Controller, Dao 등등 작성<br>
->> 이예지 : 쪽지관련 JSP 프론트 구현, 댓글CRD, 게시판CRUD, JSP,Controller,Dao 등등 작성<br>
->> 이민욱 : 로그인 회원가입 JSP 프론트 구현, 채팅(WebSocket)방만들기,방선택입장,1대1채팅방 JSP ,Controller,JS 등등 작성<br>
->> 김지형 : 메인 채팅 JSP 프론트 구현, 결제, 채팅(WebSocket)빠른입장,방검색 JSP,Controller,JS 등등 작성
-
-#### 팀 프로젝트 협업 규칙[폴더명/파일명 규칙,코드규칙,코드공유방식,주석]
-> 폴더명 : 소문자
-> 파일명 : jsp- 소문자<br> js- 소문자 <br> css-소문자 <br> java-맨앞글자 대문자 and 단어가 바뀌면 대문자 ex)ProductDao.java
-> 코드규칙 : 변수명 : 소문자 <br> 단어바뀌면 _ ex)m_no <br> 메소드명 : 소문자 ex)signup() <br> 
 
 #### 컨트롤러 구조도 
 ![image](https://user-images.githubusercontent.com/91596526/145777219-3022d0aa-7f87-493f-a9fe-5ffde01d0a47.png)
